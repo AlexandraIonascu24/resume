@@ -1,6 +1,8 @@
 # Site settings
-title: "My resume"
-description: "I don't have any inspiration for this description!!!"
+
+title: "Alexandra Ionascu's Resume"
+description: "A resume template made on a github page."
+
 
 # Build settings
 markdown: kramdown
